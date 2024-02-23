@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm wh0am1i</h1>
-<h3 align="center">Developer & </h3>
+<h3 align="center">Developer & Half-baked security researcher</h3>
+
+## About Me
+ - 💻 I love coding.
+ - ⚡️ Can draw some circuit boards
+ - 🎿 Hobbies other than coding: sleep, security researcher and petting cat.
+ - 🌱 I’m currently learning Rust.
 
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -12,6 +18,6 @@
 
 
 
-<img align='left' width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wh0am1i&layout=compact">
-<img width="319" src="https://github-readme-stats.vercel.app/api?username=wh0am1i&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
+<img align='middle'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wh0am1i&layout=compact">
+<img align='middle' src="https://github-readme-stats.vercel.app/api?username=wh0am1i&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
